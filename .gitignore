@@ -1,0 +1,9 @@
+# Notatki robocze z przygotowania zestawu (research, recenzje, dane prywatne) — nie publikujemy
+.handoff/
+
+# bats-core pobierany automatycznie przez tests/run-tests.sh
+tests/.bats-core/
+
+# Logi i pliki tworzone przy używaniu skryptu w tym folderze
+*.log
+moj-klucz-nagrod.txt

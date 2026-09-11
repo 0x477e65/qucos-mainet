@@ -1,0 +1,2 @@
+# bats-core cloned by run-tests.sh when bats is not installed
+.bats-core/
